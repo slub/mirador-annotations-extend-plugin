@@ -9,7 +9,7 @@ Persisting annotations requires implementing an a IIIF annotation server. Severa
 `mirador-annotations-extend-plugin` currently supports adapters for [Heidelberger annotation server](https://github.com/slub/mirador-annotations-extend-plugin/blob/master/src/adapters/HeiAnnoAdapter.js) and [local storage](https://github.com/slub/mirador-annotations-extend-plugin/blob/master/src/adapters/LocalStorageAdapter.js).
 
 ## Installing `mirador-annotations-extend-plugin`
-`mirador-annotations-extend-plugin` requires an instance of Mirador 3. This package is not part of the `npmjs registry`, so to install the package run `npm i https://github.com/slub/mirador-annotations-extend-plugin`. See the [Mirador wiki](https://github.com/ProjectMirador/mirador/wiki) for examples of embedding Mirador within an application. See the [demo's index.js](https://github.com/slub/mirador-annotations-extend-plugin/blob/master/demo/src/index.js) for an example of importing the `mirador-annotations-extend-plugin` plugin and configuring the adapter.
+`mirador-annotations-extend-plugin` requires an instance of Mirador 3. See the [Mirador wiki](https://github.com/ProjectMirador/mirador/wiki) for examples of embedding Mirador within an application. See the [demo's index.js](https://github.com/slub/mirador-annotations-extend-plugin/blob/master/demo/src/index.js) for an example of importing the `mirador-annotations-extend-plugin` plugin and configuring the adapter.
 
 ## Credits
 ### NFDI4Culture
